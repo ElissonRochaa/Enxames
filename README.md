@@ -10,3 +10,4 @@ Todos os algoritmos acompanham no final de cada notebook um pequeno experimento,
 A saida desses experimentos são salvos em arquivos e esses arquivos podem ser chamados pelo Arquivo Graficos.ipynb para gerar Graficos de analises dos modelos em comparação ao tempo de convergencia, baseado no grafico do cutuvelo.
 
 (Posteriormente, irei adicionando outros modelos e irei adicionar tbm em formato .py)
+(O arquivo Grafico está usando a leitura de um drive atraves do colab, posteriormente ajustarei para a leitura na propria maquina. Vc tbm pode ajustar isso ;))
